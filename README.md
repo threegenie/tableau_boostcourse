@@ -1,1 +1,2 @@
-# tableau_boostcourse
+# 태블로 실습
+- 네이버 부스트코스 ['데이터 시각화를 위한 태블로'](https://www.boostcourse.org/ds121) 강의를 듣고 실습한 내용을 업로드합니다.
